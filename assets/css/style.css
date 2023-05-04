@@ -97,6 +97,66 @@ p {
     margin-left: 20px;
 }
 
+/* SEARCH ENGINE OPTIMIZATION SECTION */
+
+.search-engine-optimization {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.search-engine-optimization img {
+    max-height: 200px;
+}
+
+.search-engine-optimization h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* ONLINE REPUTATION MANAGMENET SECTION */
+
+.online-reputation-management {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.online-reputation-management img {
+    max-height: 200px;
+}
+
+.online-reputation-management h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* SOCIAL MEDIA MARKETING SECTION */
+
+.social-media-marketing {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.social-media-marketing img {
+    max-height: 200px;
+}
+
+.social-media-marketing h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
 /* BENEFITS ASIDE */
 
 .benefits {
@@ -117,11 +177,33 @@ p {
     color: #ffffff;
 }
 
+.benefit-lead img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+.benefit-lead h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
 /* BENEFIT-BRAND ASIDE */
 
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
+}
+
+.benefit-brand img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+.benefit-brand h3 {
+    margin-bottom: 10px;
+    text-align: center;
 }
 
 /* BENEFITS-COST ASIDE */
@@ -131,121 +213,15 @@ p {
     color: #ffffff;
 }
 
-/* BENEFIT-LEAD ASIDE HEADER */
-
-.benefit-lead h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-/* BENEFIT-BRAND ASIDE HEADER */
-
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-/* BENEFIT-COST ASIDE HEADER */
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-/* BENEFIT-LEAD ASIDE IMAGE */
-
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-/* BENEFIT-BRAND ASIDE IMAGE */
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-/* BENEFIT-COST ASIDE IMAGE */
-
 .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-/* SEARCH ENGINE OPTIMIZATION SECTION */
-
-.search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-/* ONLINE REPUTATION MANAGMENET SECTION */
-
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-/* SOCIAL MEDIA MARKETING SECTION */
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-/* SEARCH ENGINE OPTIMIZATION SECTION IMAGE */
-
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-/* ONLINE REPUTATION MANAGEMENT SECTION IMAGE */
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-/* SOCIAL MEDIA MARKETING SECTION IMAGE */
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-/* SEARCH ENGINE OPTIMIZATION SECTION HEADER */
-
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-/* ONLINE REPUTATION MANAGEMENT SECTION HEADER */
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-/* SOCIAL MEDIA MARKETING SECTION HEADER */
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
+.benefit-cost h3 {
+    margin-bottom: 10px;
+    text-align: center;
 }
 
 /* FOOTER */
